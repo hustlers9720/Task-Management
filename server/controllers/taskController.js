@@ -1,4 +1,4 @@
-import TaskModel from "../models/TaskModel.js";
+import TaskModel from "../models/taskMod.js";
 
 const addTask = async (req, res) => {
     const { title, description } = req.body;
