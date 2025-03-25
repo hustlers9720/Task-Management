@@ -79,7 +79,7 @@ const editCompletedTask = async (req, res) => {
         const updatedTask = await TaskModel.findByIdAndUpdate(
             id,
             { completed },
-            { new: true } 
+            { new: true }
         );
 
         if (!updatedTask) {
