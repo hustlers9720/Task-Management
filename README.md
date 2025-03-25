@@ -101,9 +101,21 @@ Enter the JSON data, e.g.,
 }
 
 Click Send to test the API.
+
 Verify the response in the Response section.
 
 
+for add the add -->
+![add](https://github.com/user-attachments/assets/42bf39cb-fe77-47f5-9ae6-285cb4440910)
+![notify](https://github.com/user-attachments/assets/f549f587-05af-4122-ae1c-c81b38c825ea)
 
+for edit the task -->
+![Edit](https://github.com/user-attachments/assets/1a372a00-f6c4-420b-9a9f-91b5d6bd75a5)
+
+for delete the task -->
+![delete](https://github.com/user-attachments/assets/66889920-a150-4e6f-be23-d52c9813b8a3)
+
+for checkbox the task -->
+![checkbox](https://github.com/user-attachments/assets/1201be30-7c29-46e3-b174-52cb72b662e5)
 
 
